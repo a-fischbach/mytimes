@@ -1,5 +1,6 @@
 body{
   margin: 0px;
+  padding: 0px;
 }
 
 .header{
@@ -15,6 +16,7 @@ body{
   position: fixed;
   z-index: 10;
   background: white;
+
 
 }
 
